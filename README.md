@@ -43,11 +43,11 @@ Jeg synes det er fedt at når man opretter Firebase og indsætter koden fra guid
 
 
 ## Evaluering af min løsning:
-Jeg startede godt ud med at få startet Android Studio op og oprettet et nyt projekt, men da jeg skulle sætte Firebase op fra Android Studio havde jeg et problem, jeg blev nægtet adgang, et problem som også opstod under processen da vi til eksamensprojektet skulle oprette Databasen i et nyt projekt. Jeg genstartede AS (Android Studio) og det virkede ikke. Jeg slettede projektet og lavede et nyt projekt og prøvede så at ”Connect to Firebase” og så fik jeg adgang. 
+Jeg startede godt ud med at få startet Android Studio op og oprettet et nyt projekt, men da jeg skulle sætte Firebase op fra Android Studio havde jeg et problem, jeg blev nægtet adgang, et problem som også opstod under processen da vi til eksamensprojektet skulle oprette Databasen i et nyt projekt. 
+Jeg genstartede AS (Android Studio) og det virkede ikke. Jeg slettede projektet og lavede et nyt projekt og prøvede så at ”Connect to Firebase” og så fik jeg adgang. 
+
 
 ## Konklusion:
 Jeg kan konkludere ud fra min løsning at jeg har lært hvordan man sætter Firebase Database op, da jeg ikke har gjort det før. Jeg kan også konkludere at Firebase er et nemt framework som er nemt at implementere i dit system, hvilket er hvad vi gør fordi vi vil prøve noget andet end SQL. 
 Jeg vil klart anbefale andre at bruge samme løsning, da det er nemt at opsætte og det er forholdsvis ligetil at finde information omkring Firebase og hvis man går i stå, er det også muligt at opsøge dit problem. 
 Med denne artikel kan jeg til sidst konkludere at Firebase er fantastisk framework som mange tusinde mennesker benytter sig af og det gør vi også nu. 
-
-
