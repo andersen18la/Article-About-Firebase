@@ -10,22 +10,27 @@ Firebase er ejet af Google som har enorme og robuste serversystemer som sjælden
 
 ## Opsætning af Firebase i Android Studio:
  
-Lav et projekt
- - Empty Activity. 
-Når du er inde i Android Studio: 
-- Tools
-- Firebase 
+Lav et nyt projekt.
+ - Vælg Empty Activity. 
+ 
+* Når projektet er oprettet, så gør du følgende: 
+
+- Vælg fanen Tools
+- Under menuen vælg "Firebase"
 - Realtime Database 
 - Save and Retrieve Data. 
 
 
 Når du har fået Firebase menuen frem følger du blot – step by step. 
 Inden du følger guiden, skal du gå ind https://firebase.google.com/ 
-Gå til konsol
-Herefter skal du trykke ”Add project”. 
+
+- Gå til konsol
+- Herefter skal du trykke ”Add project”. 
 Efterfølgende har du oprettet en Realtime Database og er klar til at sætte data i den. 
+
 Nu Vælger du ”Database” i dashboardet i højre side af skærmen, som vist på billedet. Så kommer du ind på en side hvor du vælger ”Get started” under Realtime Database. 
 Efterfølgende følger du guiden til du er færdig, hvor du både kommer igennem at skrive til databasen og hive data ud af databasen.
+
 
 ## Min løsning:
 Jeg har nu sat et projekt og vist hvordan det kan gøres. I vores eksamensprojekt har vi gjort det anderledes til at starte med. Vi har selv skrevet en ”Admin” og ”Customer” ind i Firebase så vi har noget data vi kunne teste med. Der er flere måder at gribe det an på, og det kommer selvfølgelig an på den enkelte situation hvordan det passer én. 
